@@ -1,0 +1,6 @@
+{
+  "name": "Palashbari Fruit Shop",
+  "description": "A premium, dynamic and responsive online marketplace for fresh fruits with automatic sliding headers, category filters, shopping cart, and easy ordering system via phone or WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
